@@ -47,7 +47,7 @@ img {
 }
 .container-project {
     width: 1227px;
-    margin-left: 100px;
+    margin-left: auto;
     padding-left: 15px;
     padding-right: 15px;
     margin-bottom: 142px;
