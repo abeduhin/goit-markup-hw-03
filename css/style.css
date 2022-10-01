@@ -193,6 +193,8 @@ img {
     display: block;
     min-width: 216px;
     min-height: 50px;
+    border: none;
+    border-radius: 4px;
 }
 
 .btn-headline:hover, .btn-headline:focus {
