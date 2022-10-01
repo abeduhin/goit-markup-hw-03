@@ -46,7 +46,7 @@ img {
     padding-right: 15px;
 }
 .container-project {
-    width: 1227px;
+    width: 1230px;
     margin-left: auto;
     padding-left: 15px;
     padding-right: 15px;
@@ -240,10 +240,16 @@ img {
      
 }
 .section-comand {
+    background-color: rgba(245, 244, 250, 1);
     padding-top: 94px;
     padding-bottom: 94px;
-    border: 1px solid rgba(0, 0, 0, 1);
+    
+}
 
+.feature-comand-position {
+    background-color: var(--decor-color);
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .list-comand {
@@ -327,6 +333,9 @@ img {
     border: none;
     min-width: 130px;
     min-height: 38px;
+    background-color: rgba(245, 244, 250, 1);
+    border: none;
+    border-radius: 4px;
 }
 
 .general {
